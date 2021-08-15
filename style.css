@@ -1,0 +1,49 @@
+body {
+	background-color: black;
+}
+
+header {
+    color: grey;
+    font-family: verdana;
+    font-weight: bold;
+}
+
+footer {
+    font-family: sans - serif;
+}
+
+button {
+	  margin-top: 10;
+    font-family: sans - serif;
+    margin-left: 60px;
+}
+
+label {
+    width: 30%;
+    padding-right: 30px;
+}
+
+.maindiv {
+    background-color: white;
+    padding: 15px;
+    width: 450px;
+    border-radius: 25px;
+}
+
+.tab {
+    font-family: sans - serif;
+    line-height: 20px;
+    padding-left: 60px;
+}
+
+.field {
+    display: flex;
+    clear: both;
+    text-align: left;
+    line-height: 30px;
+
+}
+
+.values {
+    vertical-align: middle;
+}
