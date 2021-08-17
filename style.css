@@ -9,12 +9,12 @@ header {
 }
 
 footer {
-    font-family: sans - serif;
+    font-family: sans-serif;
 }
 
 button {
 	  margin-top: 10;
-    font-family: sans - serif;
+    font-family: sans-serif;
     margin-left: 60px;
 }
 
@@ -31,7 +31,7 @@ label {
 }
 
 .tab {
-    font-family: sans - serif;
+    font-family: sans-serif;
     line-height: 20px;
     padding-left: 60px;
 }
@@ -46,4 +46,10 @@ label {
 
 .values {
     vertical-align: middle;
+}
+
+img {
+    width: 32px;
+    height: 32px;
+    vertical-align: baseline;
 }
